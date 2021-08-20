@@ -1,0 +1,29 @@
+.nav-padding{
+ padding-top: 20px;
+ padding-left: 30px;
+}
+
+nav ul{
+ list-style-type:none;
+ padding-bottom: 10px;
+ padding-top: 5px;
+}
+
+nav ul li{
+	line-height: 30px;
+}
+
+nav ul li a{
+	color:#d3d3d3 ;
+	font-weight: bold;
+	font-size:15px;
+	text-decoration: none;
+}
+
+nav ul ul li{
+	line-height: 25px;
+}
+nav ul ul li a{
+	font-weight: normal;
+	color:black;
+}
